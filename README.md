@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Roblox Luau Developer and also a full-stack web developer. Currently learning C++.</p>
+<p align="left">I am a Roblox Luau Developer. I study networking and cybersecurity. If you would like to message me hit me up on Discord :)</p>
 
 ###
 
