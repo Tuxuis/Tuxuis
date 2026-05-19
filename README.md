@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Roblox Luau Developer, learning c++. I study networking and cybersecurity. If you would like to message me hit me up on Discord :)</p>
+<p align="left">I am a Roblox Luau Developer, learning c++. I study networking and cybersecurity. If you would like to message me hit me up on Discord</p>
 
 ###
 
